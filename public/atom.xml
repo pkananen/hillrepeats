@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[hill repeats]]></title>
+  <link href="http://hillrepeats.com/atom.xml" rel="self"/>
+  <link href="http://hillrepeats.com/"/>
+  <updated>2012-02-15T17:38:48-05:00</updated>
+  <id>http://hillrepeats.com/</id>
+  <author>
+    <name><![CDATA[Peter Kananen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I'm not a runner]]></title>
+    <link href="http://hillrepeats.com/blog/2012/02/13/im-not-a-runner/"/>
+    <updated>2012-02-13T14:30:00-05:00</updated>
+    <id>http://hillrepeats.com/blog/2012/02/13/im-not-a-runner</id>
+    <content type="html"><![CDATA[<p>That&#8217;s usually what I&#8217;ve told people whenever I&#8217;ve mentioned that I ran a 5K or had gone for a run in an attempt to stay in some level of fitness. It&#8217;s been 12 years since I regularly ran cross country in high school, and there have been years at a time where I haven&#8217;t ran almost at all. Sure, in the last 6 years I&#8217;ve done a few 5Ks in respectable times, and I&#8217;ve even run regularly for a few months at a time. But I&#8217;ve never considered myself a runner, and I probably wouldn&#8217;t even have used that description about myself when I was running 40 miles a week and 17 minute 5K races back in high school.</p>
+
+<p>I never considered myself a runner because I&#8217;ve never really enjoyed running. But I&#8217;ve begun running again, and I&#8217;ve been enjoying it. A coworker of mine trained for a marathon in the fall, and his constant talk about his training plan kindled the thought of commiting to a race and seeing if I could perform well with a new challenge. I love having a plan and devoting myself to it, and I decided that in order to get back to the shape I&#8217;d like to be in and prove that I wasn&#8217;t past my prime, it was time to commit to a goal and see what happens. I&#8217;ve registered for the Flying Pig Half Marathon in Cincinnati, OH on May 6th, and I want to run it in 1:30. The next three months should be interesting.</p>
+]]></content>
+  </entry>
+  
+</feed>

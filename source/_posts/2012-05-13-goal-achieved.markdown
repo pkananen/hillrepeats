@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "goal-achieved"
+title: "goal achieved"
 date: 2012-05-13 23:48
 comments: true
 categories: 
